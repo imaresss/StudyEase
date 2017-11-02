@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- draw another block to cut-off the left and right bars -->
+    <item android:bottom="5.0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFA500" />
+
+        </shape>
+    </item>
+
+</layer-list>
